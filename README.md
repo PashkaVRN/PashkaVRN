@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hello world 👋, my name is Pavel! I am currently a beginner Python developer.</h1>
 <h3 align="center">Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate, or calculate almost any situation that happens in our lives, it's very exciting and insanely addictive))))</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ImpassionedHeartfeltJenny-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pashkavrn&label=Profile%20views&color=0e75b6&style=flat" alt="pashkavrn" /> </p>
 
