@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Backend, HTML, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PashkaVRN?tab=repositories](https://github.com/PashkaVRN?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/PashkaVRN?tab=repositories">my repositories</a>
 
 - 📫 How to reach me:
    -  Email: **pawel.pavlenti@yandex.ru**
