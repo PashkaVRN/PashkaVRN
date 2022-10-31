@@ -1,5 +1,5 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
-<h1 align="center">Hello world 👋, my name is Pavel! I am currently a beginner Python developer.</h1>
+<h1 align="center">Hello world <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, my name is Pavel! I am currently a beginner Python developer.</h1>
+<h3 align="center">Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate, or calculate almost any situation that happens in our lives, it's very exciting and insanely addictive))))</h3>
 <h3 align="center">Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate, or calculate almost any situation that happens in our lives, it's very exciting and insanely addictive))))</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966">
 
@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PashkaVRN?tab=repositories](https://github.com/PashkaVRN?tab=repositories)
 
-- 📫 How to reach me **pawel.pavlenti@yandex.ru**
+- 📫 How to reach me?
+-  Email: **pawel.pavlenti@yandex.ru**
+-  Telegram - <a href="https://t.me/pashkavrn" target="_blank">@pashkavrn</a> 
 
 <h3 align="left">Connect with me Telegram: @pashkavrn</h3>
 <p align="left">
