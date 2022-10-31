@@ -14,7 +14,6 @@
    -  Email: **pawel.pavlenti@yandex.ru**
    -  Telegram - <a href="https://t.me/pashkavrn" target="_blank">@pashkavrn</a> 
 
-<h3 align="left">Connect with me Telegram: @pashkavrn</h3>
 <p align="left">
 </p>
 
