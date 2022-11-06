@@ -12,7 +12,7 @@
 
 - 📫 How to reach me:
    -  Email: **pawel.pavlenti@yandex.ru**
-   -  Telegram - <a href="https://t.me/pashkavrn" target="_blank">@pashkavrn</a> 
+   -  Telegram: <a href="https://t.me/pashkavrn" target="_blank">@pashkavrn</a> 
 
 <p align="left">
 </p>
