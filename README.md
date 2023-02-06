@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/PashkaVRN?tab=repositories">my repositories</a>
 
 - 📫 How to reach me:
-   -  Email: **pawel.pavlenti@yandex.ru**
+   -  Email: **pavelshevel96@gmail.com**
    -  Telegram: <a href="https://t.me/pashkavrn" target="_blank">@pashkavrn</a> 
 
 <p align="left">
